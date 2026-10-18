@@ -74,7 +74,7 @@ Will force the client to close immediately, specifying a quit reason to the serv
 
 ### loadlevel \<level_name>
 
-<!-- TODO: Needs an reference on how to use and/or setup the loadlevel command -->
+<!-- TODO: Needs a reference on how to use and/or setup the loadlevel command -->
 
 Starts a local game loading a level (or commonly known as a map) from the name supplied.
 
